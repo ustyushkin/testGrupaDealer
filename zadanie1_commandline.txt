@@ -1,0 +1,22 @@
+testGrupaDealer # php vendor/bin/phpunit tests/tests
+PHPUnit 6.5.8 by Sebastian Bergmann and contributors.
+
+..
+1-0=>Fifteen-Love.
+2-0=>Thirty-Love.
+3-0=>Forty-Love.
+4-0=>Winner: Bob Claster.
+4-3=>Advantage: Bob Claster.
+4-4=>Deuce.
+3-3=>Forty-All.
+2-2=>Thirty-All.
+1-1=>Fifteen-All.
+5-5=>Deuce.
+5-6=>Advantage: John McKalister.
+7-6=>Advantage: Bob Claster.                                                    14 / 14 (100%)
+5-7=>Winner: John McKalister
+
+Time: 30 ms, Memory: 4.00MB
+
+OK (14 tests, 14 assertions)
+
